@@ -1,0 +1,11 @@
+.body{
+    background-color: red;
+    height: 1000px;
+    
+
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+
+}
